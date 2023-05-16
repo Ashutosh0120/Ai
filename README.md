@@ -26,3 +26,4 @@ Steps:
 ![image](https://github.com/Ashutosh0120/Ai-Article-Summarizer/assets/24804042/ab3ce827-3e92-4a41-9803-d30fe87612a7)
 
 
+Project Credits: https://github.com/adrianhajdin
