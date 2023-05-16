@@ -6,10 +6,10 @@
 Tech Stack: ```HTML``` ```Tailwind CSS``` ```JS```  ```REACTJS``` 
 <br><br>
 Key Points:<br>
--> Used VITE, for setting up this React Project.<br>
--> Used Tailwind CSS, for creating the website design.<br>
--> Used Article Extractor and Summarizer Api from Rapid Api website, to add the functionality of summarizing the input website content.<br>
--> The local storage of the user is utilized for displaying past searches.<br>
+1. Used VITE, for setting up this React Project.<br>
+2. Used Tailwind CSS, for creating the website design.<br>
+3. Used Article Extractor and Summarizer Api from Rapid Api website, to add the functionality of summarizing the input website content.<br>
+4. The local storage of the user is utilized for displaying past searches.<br>
 
 Note: 
 For running this project, you need Rapid API key for your project.
