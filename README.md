@@ -1,9 +1,9 @@
 <h2 align="center"> AI Article Summarizer </h2>
 
-![image](https://github.com/Ashutosh0120/Ai-Article-Summarizer/assets/24804042/dec02711-552c-44ca-ae53-2e581959fc57)
+<!-- ![image](https://github.com/Ashutosh0120/Ai-Article-Summarizer/assets/24804042/dec02711-552c-44ca-ae53-2e581959fc57) -->
 
 
-<!-- ![WhatsApp Image 2023-05-16 at 11 57 48](https://github.com/Ashutosh0120/Ai-Article-Summarizer/assets/24804042/1f95d350-0115-4317-9a3e-cb219ea47e1c) -->
+![WhatsApp Image 2023-05-16 at 11 57 48](https://github.com/Ashutosh0120/Ai-Article-Summarizer/assets/24804042/1f95d350-0115-4317-9a3e-cb219ea47e1c)
 
 Tech Stack: ```HTML``` ```Tailwind CSS``` ```JS```  ```REACTJS``` 
 <br><br>
