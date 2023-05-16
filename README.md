@@ -23,6 +23,6 @@ Steps:
 5. Copy the KEY provided in  'X-RapidAPI-Key':'KEY' in right side "headers" section in "const options" on Code snippet side.
 6. Go to "src/services/article.js", paste the copied key here, as shown below.
 
-![image](https://github.com/Ashutosh0120/Ai-Article-Summarizer/assets/24804042/28671194-859b-4d97-84b5-637d1eee8f29)
+![image](https://github.com/Ashutosh0120/Ai-Article-Summarizer/assets/24804042/ab3ce827-3e92-4a41-9803-d30fe87612a7)
 
 
